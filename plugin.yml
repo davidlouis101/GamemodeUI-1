@@ -2,9 +2,9 @@ name: GamemodeUI
 main: GamemodeUI\LaithYT\Main
 version: 1.0
 api: [3.0.0]
-author: LaithYT
+author: David
 description: Easily Chang Gamemode
-website: https://github.com/laith98
+website: https://github.com/davidlouis101
 
 commands: 
  gm:
